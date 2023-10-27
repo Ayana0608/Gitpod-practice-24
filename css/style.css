@@ -181,6 +181,11 @@ body {
     border: none;
 }
 
+.design-img img {
+    width: 100%;
+    height: 100%;
+}
+
 .design-title {
     color: #12100c;
     text-align: center;
