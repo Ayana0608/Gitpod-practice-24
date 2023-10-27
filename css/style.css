@@ -180,6 +180,64 @@ body {
     padding: 10px 18px;
     border: none;
 }
+
+.design-title {
+    color: #12100c;
+    text-align: center;
+    font-family: "Roboto" sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 71.82px;
+}
+
+.design-text {
+    color: rgba(18, 16, 12, 0.7);
+    text-align: center;
+    font-family: "Roboto" sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 31.92px;
+    padding: 0 85px;
+}
+
+.design__content {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.design__content-btn {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.design-btn1 {
+    color: #12100c;
+    border-radius: 9px;
+    border: none;
+    font-family: "Roboto" sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 31.86px;
+    padding: 7px 12px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+        rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.design-btn2 {
+    color: #12100c;
+    border-radius: 9px;
+    border: none;
+    font-family: "Roboto" sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 31.86px;
+    padding: 7px 12px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+        rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
 @media screen and (max-width: 970px) {
     .main__content {
         display: flex;
