@@ -93,6 +93,40 @@ body {
     gap: 29px;
 }
 
+.popular-info {
+    padding: 150px 0;
+}
+
+.popular-title {
+    text-align: center;
+    color: #12100c;
+    font-family: "Roboto" sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 63.72px;
+    margin: 0;
+}
+
+.popular-text {
+    text-align: center;
+    color: #999795;
+    font-family: "Roboto" sans-serif;
+    font-size: 54px;
+    font-weight: 400;
+    line-height: 63.72px;
+    margin: 0;
+}
+
+.popular__small-title {
+    text-align: center;
+    color: #12100c;
+    font-family: "Roboto" sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 63.72px;
+    margin: 0;
+}
+
 @media screen and (max-width: 900px) {
     .hero__content {
         display: flex;
